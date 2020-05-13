@@ -41,6 +41,9 @@ TagManager:
   - name: Background
     uniqueID: 4230226247
     locked: 0
+  - name: Ship
+    uniqueID: 4067939227
+    locked: 0
   - name: Jewel
     uniqueID: 3255213477
     locked: 0
